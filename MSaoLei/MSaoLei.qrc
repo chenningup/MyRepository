@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="MSaoLei"/>
+  <qresource prefix="buttonType">
+    <file>cry.png</file>
+    <file>redflag.png</file>
+    <file>question.png</file>
+    <file>mine.jpg</file>
+    <file>clicked.jpg</file>
+    <file>unknow.jpg</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+﻿  MSaoLei.cpp
+d:\coding\my computer games\saolei\msaolei\msaolei\msaolei.cpp(134): warning C4715: “MSaoLei::GetOneButtonType”: 不是所有的控件路径都返回值
+d:\coding\my computer games\saolei\msaolei\msaolei\msaolei.cpp(146): warning C4715: “MSaoLei::GetOneButtonState”: 不是所有的控件路径都返回值
+d:\coding\my computer games\saolei\msaolei\msaolei\msaolei.cpp(222): warning C4715: “MSaoLei::GetStyleSheetWithNum”: 不是所有的控件路径都返回值
+  MSaoLei.vcxproj -> D:\coding\my computer games\saolei\MSaoLei\Debug\MSaoLei.exe
